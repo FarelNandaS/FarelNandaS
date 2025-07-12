@@ -5,8 +5,10 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarelNandaS&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/FarelNandaS?label=Followers&style=social" alt="GitHub Followers" />
+
+  ![GitHub Followers](https://img.shields.io/github/followers/FarelNandaS?style=for-the-badge&color=blue)
+  ![GitHub Stars](https://img.shields.io/github/stars/FarelNandaS?style=for-the-badge&color=yellow)
+
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
