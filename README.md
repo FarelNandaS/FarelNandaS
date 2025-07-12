@@ -20,7 +20,6 @@ const tahukotak = {
     location: "Indonesia 🇮🇩",
     motto: "life is short, code it well",
     currentFocus: ["Web Development 🌐", "Game Development 🎮"],
-    funFact: "I love creating interactive experiences! ✨",
     currentlyLearning: "Always exploring new tech 🚀",
     askMeAbout: ["JavaScript", "PHP", "Game Development", "Web Design"]
 };
