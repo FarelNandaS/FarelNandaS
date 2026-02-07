@@ -102,16 +102,6 @@ const tahukotak = {
 
 </div>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Stats 
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FarelNandaS&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="Farel's GitHub stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarelNandaS&layout=compact&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarelNandaS&theme=dark&hide_border=true&stroke=0000&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="Farel's GitHub streak"/>
-</div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect! 
 
