@@ -46,7 +46,7 @@ const tahukotak = {
         <h3 align="center">💬 AlwaysChat</h3>
         <div align="center">
           <a href="https://github.com/FarelNandaS/AlwaysChat" target="_blank">
-            <img src="https://img.shields.io/badge/💬-Always%20Chat-ff6b6b?style=for-the-badge" alt="Game Dev"/>
+            <img src="https://img.shields.io/badge/💬-Messager-ff6b6b?style=for-the-badge" alt="Game Dev"/>
           </a>
           <p><strong>PHP, Laravel, Vue</strong> - Program chat real-time mengunakan WebSocket dengan tampilan yang seemless.</p>
         </div>
