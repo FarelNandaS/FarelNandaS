@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there! I'm Farel Nanda S
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hai! Saya Farel Nanda S.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+Web+Developer;Always+learning+new+technologies;life+is+short,+code+it+well" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Selamat+datang+di+github+profile+saya;Saya+seorang+pengembang+web+yang+penuh+semangat;Selalu+mempelajari+teknologi+baru;life+is+short,+code+it+well" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tentang Saya 
 
 ```javascript
 const tahukotak = {
@@ -19,36 +19,36 @@ const tahukotak = {
     alias: "Farel",
     location: "Indonesia 🇮🇩",
     motto: "life is short, code it well",
-    currentFocus: ["Web Development 🌐", "Game Development 🎮"],
-    currentlyLearning: "Always exploring new tech 🚀",
-    askMeAbout: ["JavaScript", "PHP", "Game Development", "Web Design"]
+    currentFocus: ["Web Development 🌐", "Learning 🧠"],
+    currentlyLearning: "**Always exploring new tech** 🚀",
+    askMeAbout: ["JavaScript", "TypeScript", "PHP", "Game Development"]
 };
 ```
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> What I'm Working On 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Apa yang Sedang Saya Kerjakan 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🎮 **Game Development** - Building fun interactive games
-- 🌐 **Web Applications** - Creating discussion platforms  
-- 📱 **Personal Projects** - Always experimenting
-- 🎯 **Portfolio** - Showcasing my developer journey
-- 🧠 **Learning** - New frameworks and technologies
+- 🎮 **Game Development** - Membuat permainan interaktif yang menyenangkan
+- 🌐 **Web Applications** - Menciptakan web aplikasi yang menarik 
+- 📱 **Personal Projects** - Selalu bereksperimen
+- 🎯 **Portfolio** - Memamerkan perjalanan saya sebagai pengembang
+- 🧠 **Learning** - Kerangka kerja dan teknologi baru
 
 <br clear="both">
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Featured Projects 
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Proyek Unggulan 
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🏐 Voli-Ball Game</h3>
+        <h3 align="center">💬 AlwaysChat</h3>
         <div align="center">
-          <a href="https://github.com/FarelNandaS/voli-ball" target="_blank">
-            <img src="https://img.shields.io/badge/🎮-Game%20Dev-ff6b6b?style=for-the-badge" alt="Game Dev"/>
+          <a href="https://github.com/FarelNandaS/AlwaysChat" target="_blank">
+            <img src="https://img.shields.io/badge/💬-Always%20Chat-ff6b6b?style=for-the-badge" alt="Game Dev"/>
           </a>
-          <p><strong>JavaScript, HTML5 Canvas</strong> - A fun bouncing ball game to test your reflexes! Keep the ball in the air as long as possible.</p>
+          <p><strong>PHP, Laravel, Vue</strong> - Program chat real-time mengunakan WebSocket dengan tampilan yang seemless.</p>
         </div>
       </td>
       <td width="50%">
@@ -57,7 +57,7 @@ const tahukotak = {
           <a href="https://github.com/FarelNandaS/TahuAnimeList" target="_blank">
             <img src="https://img.shields.io/badge/🎌-Anime%20List-4ecdc4?style=for-the-badge" alt="Anime List"/>
           </a>
-          <p><strong>JavaScript</strong> - Web application inspired by YouTube content, bringing anime lists to life.</p>
+          <p><strong>JavaScript, Next.js</strong> - Web aplikasi yang terinspirasi dati conten youtube, Membawa daftar anime lengkap.</p>
         </div>
       </td>
     </tr>
@@ -68,7 +68,7 @@ const tahukotak = {
           <a href="https://github.com/FarelNandaS/Discussion" target="_blank">
             <img src="https://img.shields.io/badge/💬-Community-45b7d1?style=for-the-badge" alt="Community"/>
           </a>
-          <p><strong>PHP</strong> - Community discussion website where users can create accounts and start topics about anything.</p>
+          <p><strong>PHP, Laravel</strong> - Situs web diskusi komunitas tempat pengguna dapat membuat akun dan memulai topik mengenai apa saja..</p>
         </div>
       </td>
       <td width="50%">
@@ -77,7 +77,7 @@ const tahukotak = {
           <a href="https://github.com/FarelNandaS/portofolio" target="_blank">
             <img src="https://img.shields.io/badge/🎨-Portfolio-f7931e?style=for-the-badge" alt="Portfolio"/>
           </a>
-          <p><strong>JavaScript</strong> - My personal portfolio showcasing my development journey and projects.</p>
+          <p><strong>JavaScript, Next.js</strong> - Portofolio pribadi yang menampilkan perjalanan pengembangan dan proyek-proyek saya..</p>
         </div>
       </td>
     </tr>
@@ -103,7 +103,7 @@ const tahukotak = {
 </div>
 
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect! 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Mari Terhubung!
 
 <div align="center">
   <a href="https://www.instagram.com/farelnandas" target="_blank">
@@ -117,21 +117,21 @@ const tahukotak = {
   </a>
 </div>
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> Fun Facts About Me 
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> Fakta Menarik Tentang Saya
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=🎮+I+love+creating+games;🌏+Based+in+Indonesia;🚀+Always+eager+to+learn;💡+Continuous+improvement" alt="Fun Facts" />
 </div>
 
-- 🎮 I enjoy creating games that challenge reflexes and skills  
-- 🌏 Based in Indonesia, coding with passion
-- 🚀 Always eager to learn and experiment with new technologies
-- 💡 I believe in continuous learning and improvement
+- 🌏 Berbasis di Indonesia, memprogram dengan penuh semangat
+- 🚀 Selalu antusias untuk belajar dan bereksperimen dengan teknologi baru
+- 💡 Saya percaya pada pembelajaran dan pengembangan diri yang berkelanjutan
+- 🎮 Saya senang membuat gim yang menguji refleks dan keterampilan
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Current Mood 
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Suasana saat ini 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=400&lines=😁+life+is+short,+code+id+well+😁;💻+Let's+build+something+amazing!;🚀+Ready+for+new+challenges!" alt="Current Mood" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=400&lines=😁+life+is+short,+code+id+well+😁;💻+Mari+kita+bangun+sesuatu+yang+luar+biasa!;🚀+Siap+menghadapi+tantangan+baru!" alt="Current Mood" />
 </div>
 
 ---
@@ -141,6 +141,6 @@ const tahukotak = {
 </div>
 
 <div align="center">
-  <h3>⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-  <p><em>Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on exciting projects!</em> 🚀</p>
+  <h3>⭐ "Ngoding Dulu, Jagonya Belakangan!." - Dea Afrizal</h3>
+  <p><em>Terima kasih telah mengunjungi profil saya! Silakan jelajahi repositori saya dan jangan ragu untuk menghubungi saya jika Anda ingin berkolaborasi dalam proyek-proyek menarik!</em> 🚀</p>
 </div>
